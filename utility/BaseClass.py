@@ -31,3 +31,6 @@ class BaseClass:
     def selectOptionByText(self, locator, text):
         dropdown = Select(locator)
         dropdown.select_by_visible_text(text)
+
+    def browserclose(self):
+        pass
