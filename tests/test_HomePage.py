@@ -19,7 +19,7 @@ class TestHomePage(BaseClass):
         homePage = HomePage(self.driver)
         log.info("First name is :" +getData["firstname"])
         homePage.getUserName().send_keys(getData["firstname"])
-        time.sleep(1)
+        time.sleep(2)
 
 
         #driver.find_element_by_name("email").send_keys("rahulsetti@gmail.com")
