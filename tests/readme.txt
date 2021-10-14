@@ -14,5 +14,3 @@ git branch
 swithc to branch
 git checkout branch name
 git reset
-git cherry-pick
-git stash
