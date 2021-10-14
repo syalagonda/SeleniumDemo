@@ -6,3 +6,10 @@ get status
 git commit -m "message"
 get remote add origin https://
 git push origin master
+
+Branch:
+git checkout -b develop
+git branch
+
+swithc to branch
+git checkout branch name
