@@ -1,0 +1,54 @@
+[33mcommit 806e39d12511872b977e7ab14a7dc6ffe2d60bd3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 810cbaf c47bf11
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Wed Oct 13 17:49:40 2021 -0700
+
+    merge conflict fixed
+
+[33mcommit c47bf118bf60cf2034202e18fec0acede43b6eec[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Wed Oct 13 17:12:15 2021 -0700
+
+    move to develop
+
+[33mcommit 810cbaf69361afa1db33bdf03a660b4fc990d4ec[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Wed Oct 13 16:59:01 2021 -0700
+
+    increase sleep time
+
+[33mcommit 418b6f2cd3ebb420e4be2747039532339a7e86a2[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Wed Oct 13 16:11:34 2021 -0700
+
+    remove
+
+[33mcommit 29b001ad5cd456e890428c808790664087cff9a6[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Wed Oct 13 16:04:32 2021 -0700
+
+    removed method
+
+[33mcommit cff5850f2f6d87e9a6cdc6654adc644060530fef[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Wed Oct 13 15:59:33 2021 -0700
+
+    added method
+
+[33mcommit 59ef700f76166ab745ef43837a4bc332eea8edd0[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Tue Oct 12 16:44:18 2021 -0700
+
+    updated readme file
+
+[33mcommit 454ffd67dcc53ab4d698b77c31c2b16dce55c15f[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Tue Oct 12 16:27:58 2021 -0700
+
+    add readme file
+
+[33mcommit f505f38b4b70ec054522084b23a06949663b2943[m
+Author: syalagonda <syalagonda@gmail.com>
+Date:   Tue Oct 12 15:51:35 2021 -0700
+
+    first commit
