@@ -9,7 +9,4 @@ git push origin master
 
 Branch:
 git checkout -b develop
-Delete me
-
-
-This is not required
+Delete me 
